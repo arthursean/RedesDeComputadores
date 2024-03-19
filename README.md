@@ -1,5 +1,5 @@
 # Trabalho da disciplina Redes de Computadores
-Alunos: Arthur Sean Cerqueira Campos, Diêgo de Araujo Correia, Másio César Carvalho e Rodrigo Moreira Marinho
+Alunos: Arthur Sean Cerqueira Campos, Diêgo de Araujo Correia, Másio César de Carvalho Moraes e Rodrigo Moreira Marinho
 Professor: Dr. Almir Pereira
 
 
